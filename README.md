@@ -7,6 +7,9 @@ Some examples of things that it can convert into single .exe file:
 - Any shell script like .bat, .ps1, .vbs, etc.
 - Many more.
 
+## Demo (packing .exe with multiple .dll files)
+https://github.com/user-attachments/assets/88ca2cb1-1772-42fd-8291-f76ed14f5e64
+
 ## Features
 - Designed to work with almost anything.
 - Automatically clean up files after app is closed.
