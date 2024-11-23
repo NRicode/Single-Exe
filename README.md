@@ -23,6 +23,9 @@ For shell scripts, you should specify the host executable in **full path** e.g. 
 3. Select the compression level (0 = no compression (fastest, file size unchanged), 10 = max compression (slowest, smallest file size)). Note that higher compression level will significantly slow down the app on startup.  
 4. Wait until you see the "Done" button. "portable.exe" will be generated
 
+## Installing
+Prebuilt binary is available on [release page](https://github.com/NRicode/Single-Exe/releases)
+
 ## How to build
 You can build the project with the CMakeLists.txt provided but it only supports MinGW compiler. If you are using MSVC, you should compile all of the source files and link against raylib library provided.
 
