@@ -1,4 +1,5 @@
 # Single Exe
+<ins>**Please star this repo if you find it useful, thank you!**</ins>  
 Single Exe is a sophisticated tool that can convert almost anything into a single .exe file with smaller size.  
   
 Some examples of things that it can convert into single .exe file:
